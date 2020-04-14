@@ -2,7 +2,6 @@
 by Hwajeong Seo, Amir Jalali, and Reza Azarderakhsh
 
 --************************************************************************
-
 --*   Lightweight Implementation of SIKE Round 2 on ARM Cortex-M4
 
 --*
