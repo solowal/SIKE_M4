@@ -7,6 +7,8 @@ Lightweight Implementation of SIKE Round 2 on ARM Cortex-M4
 
 - SIKE_M4.tar.gz: pqm4 testbench package
 
+< Simple speed test >
+
 $ make
 
 $ ./monitor.sh &
